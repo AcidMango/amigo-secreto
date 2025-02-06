@@ -1,2 +1,1 @@
-# amigo-secreto
-Primer Challenge del ONE - Alura LATAM
+<em> # Primer Challenge del curso Lógica de la programación </em>
